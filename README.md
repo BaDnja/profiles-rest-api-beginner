@@ -21,3 +21,4 @@ Below are listed things I learned while following course:
         * Creating **authentication** class for token authentication
         * Managing **permissions** using rest framework permissions and extending user BasePermission
         * Adding **filters** for searching profiles using built in rest framework filters.
+* Creating authorization restrictions on API so that *only authenticated users can access* API data.
